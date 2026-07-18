@@ -1,20 +1,35 @@
-# Cybersecurity Notes
+# 🛡️ Cybersecurity Notes
 
 Hi, I'm Al Arsh.
 
-I'm learning cybersecurity step by step.
+I'm a BCA graduate and an aspiring Cybersecurity Professional.
 
-## Topics I'm Learning
-- Linux
+## 📚 Topics Covered
+- Linux Fundamentals
 - Kali Linux
 - Networking
-- Nmap
-- Bandit (OverTheWire)
 - HTTP & HTTPS
 - DNS
 - OSI Model
 - TCP/IP
-- Wireshark (Coming Soon)
+- Nmap
+- Bandit (OverTheWire)
 
-## Goal
-To become a Cybersecurity Professional and Penetration Tester.
+## 🎯 Goal
+To become an Ethical Hacker and Penetration Tester.
+
+## 🛠️ Tools
+- Kali Linux
+- Nmap
+- Git
+- GitHub
+- VMware
+
+## 📖 Learning Progress
+- ✅ Linux Basics
+- ✅ Networking Basics
+- ✅ Nmap Basics
+- 🚧 Wireshark (Learning)
+- 🚧 Burp Suite (Learning)
+
+> I update this repository regularly with notes and lab work.
