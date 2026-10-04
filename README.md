@@ -15,8 +15,6 @@ I'm a BCA graduate and an aspiring Cybersecurity Professional.
 - Nmap
 - Bandit (OverTheWire)
 
-## 🎯 Goal
-To become an Ethical Hacker and Penetration Tester.
 
 ## 🛠️ Tools
 - Kali Linux
