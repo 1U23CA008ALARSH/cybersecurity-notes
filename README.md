@@ -27,7 +27,7 @@ I'm a BCA graduate and an aspiring Cybersecurity Professional.
 - ✅ Linux Basics
 - ✅ Networking Basics
 - ✅ Nmap Basics
-- 🚧 Wireshark (Learning)
-- 🚧 Burp Suite (Learning)
+- ✅ Wireshark 
+- ✅ Burp Suite 
 
 > I update this repository regularly with notes and lab work.
